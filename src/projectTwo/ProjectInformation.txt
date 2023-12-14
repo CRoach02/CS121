@@ -1,0 +1,14 @@
+[This file is not necessary to run the project, it is used to provide context about the project.]
+
+Contributors / Group Members
+    Pierson Silver
+    Brayden Saunders
+    Cooper Roach
+
+Goal of Project
+    Simple bank account tracker using an array list nested into a hashmap that stores and reads information from a text file.
+
+Project Information
+    The bank records text file needs to be loaded outside the source directory.
+    The file "Main.java" showcases all the functions in a direct manner.
+    The "bankLoop.java" file adds a mini webpage like function to call the functions used in this project.
