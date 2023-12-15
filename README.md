@@ -20,7 +20,12 @@ Project 2 is a program to create an example bank system. The idea of the project
 Click the link to view [Project 2](https://github.com/CRoach02/CS121/tree/CS121/src/projectTwo).
 # <a name="weekly"></a>Weekly Assignments
 ## <a name="w1-4"></a>Weeks 1 - 4
+The assignments for this set of weeks mainly cover the basics of coding and how to implement them in Java. Such topics were loops, scanners, declaring data types, and just getting the general feel of Java. 
 
-   
-https://github.com/CRoach02/CS121/tree/CS121/src/projectOne
-https://github.com/CRoach02/CS121/tree/CS121/src/projectTwo
+Weekly Assignments
+- [Week 1](https://github.com/CRoach02/CS121/tree/CS121/src/weekOne)
+- [Week 2](https://github.com/CRoach02/CS121/tree/CS121/src/weekTwo)
+- [Week 3](https://github.com/CRoach02/CS121/tree/CS121/src/weekThree)
+- [Week 4](https://github.com/CRoach02/CS121/tree/CS121/src/weekFour)
+
+
