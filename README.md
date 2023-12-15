@@ -19,7 +19,7 @@ This project is a game that follows a rock, paper, scissors style. Two players a
 Click the link to view [Project 1](https://github.com/CRoach02/CS121/tree/CS121/src/projectOne).
 
 ## <a name="project-2"></a>Project 2
-Project 2 is a program to create an example bank system. The idea of the project was to nest an arraylist into a hashmap. This would allow for information to be called easily from a key and limit space problems as hasmaps take up little space.   
+Project 2 is a program to create an example bank system. The idea of the project was to nest an arraylist into a hashmap. This would allow for information to be called easily from a key and limit space problems as hasmaps take up little space. All of the information is stored on a text file, [Bank Records](https://github.com/CRoach02/CS121/blob/CS121/bankRecords.txt).
       
 Click the link to view [Project 2](https://github.com/CRoach02/CS121/tree/CS121/src/projectTwo).
 # <a name="weekly"></a>Weekly Assignments
