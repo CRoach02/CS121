@@ -1,5 +1,5 @@
 #  CS121
-Work from CS121
+Work from CS121 by Cooper Roach
 # Contents
 - [Projects](#projects)
   - [Project 1](#project-1)
