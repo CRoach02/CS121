@@ -32,26 +32,26 @@ Weekly Assignments
 - [Week 3](https://github.com/CRoach02/CS121/tree/CS121/src/weekThree)
 - [Week 4](https://github.com/CRoach02/CS121/tree/CS121/src/weekFour)
 ## <a name="w5-7"></a>Weeks 5 - 7
-text
+Week 5's assignments consisted of working with files in terms of writing, reading, and appending text files. Week 6 developed many of the class functions used in project one. Encapsulation, overloaded functions, and calling methods from other classes are found here. Week 7 links to project one as this is what that time was spent on. 
      
 Weekly Assignments
 - [Week 5](https://github.com/CRoach02/CS121/tree/CS121/src/weekFive)
 - [Week 6](https://github.com/CRoach02/CS121/tree/CS121/src/weekSix)
-- [Week 7](https://github.com/CRoach02/CS121/tree/CS121/src/weekSeven)
+- [Week 7](https://github.com/CRoach02/CS121/tree/CS121/src/projectOne)
 ## <a name="w8-10"></a>Weeks 8 - 10
-text
+Week 8 does not have a link as the assignment for the week was a group assignment on paper about identifying classes from the structure of a given application, service, or website. Week 9 involved working with static functions, arrays, and multi-dimensional arrays. Week 10 covered arraylists, inheritance, abstract classes, interfaces, and recursion. 
      
 Weekly Assignments
-- [Week 5](https://github.com/CRoach02/CS121/tree/CS121/src/weekFive)
-- [Week 6](https://github.com/CRoach02/CS121/tree/CS121/src/weekSix)
-- [Week 7](https://github.com/CRoach02/CS121/tree/CS121/src/weekSeven)
+- Week 8
+- [Week 9](https://github.com/CRoach02/CS121/tree/CS121/src/weekNine)
+- [Week 10](https://github.com/CRoach02/CS121/tree/CS121/src/weekTen)
 ## <a name="w11-13"></a>Weeks 11 - 13
-text
+Week 11 saw the introduction of Big O as well as two types of sorting algorithms: bubble and merge sort. Week 12's assignments used linear and binary search along with sets and iterators. Week 13 involved the use of generics, hashmaps, and linked lists.
      
 Weekly Assignments
-- [Week 5](https://github.com/CRoach02/CS121/tree/CS121/src/weekFive)
-- [Week 6](https://github.com/CRoach02/CS121/tree/CS121/src/weekSix)
-- [Week 7](https://github.com/CRoach02/CS121/tree/CS121/src/weekSeven)
+- [Week 11](https://github.com/CRoach02/CS121/tree/CS121/src/weekEleven)
+- [Week 12](https://github.com/CRoach02/CS121/tree/CS121/src/weekTwelve)
+- [Week 13](https://github.com/CRoach02/CS121/tree/CS121/src/weekThirteen)
 ## <a name="w14-17"></a>Weeks 14 - 17
 text
      
