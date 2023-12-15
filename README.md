@@ -4,7 +4,8 @@ Work from CS121
 - [Projects](#projects)
   - [Project 1](#project-1)
   - [Project 2](#project-2)
-- Weekly Assignments
+- [Weekly Assignments](#weekly)
+  - [Weeks 1 - 4](#w1-4)
 
 # <a name="projects"></a>Projects
 ## <a name="project-1"></a>Project 1
@@ -17,6 +18,9 @@ Click the link to view [Project 1](https://github.com/CRoach02/CS121/tree/CS121/
 Project 2 is a program to create an example bank system. The idea of the project was to nest an arraylist into a hashmap. This would allow for information to be called easily from a key and limit space problems as hasmaps take up little space.   
       
 Click the link to view [Project 2](https://github.com/CRoach02/CS121/tree/CS121/src/projectTwo).
+# <a name="weekly"></a>Weekly Assignments
+## <a name="w1-4"></a>Weeks 1 - 4
+
    
 https://github.com/CRoach02/CS121/tree/CS121/src/projectOne
 https://github.com/CRoach02/CS121/tree/CS121/src/projectTwo
