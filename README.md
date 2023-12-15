@@ -53,14 +53,11 @@ Weekly Assignments
 - [Week 12](https://github.com/CRoach02/CS121/tree/CS121/src/weekTwelve)
 - [Week 13](https://github.com/CRoach02/CS121/tree/CS121/src/weekThirteen)
 ## <a name="w14-17"></a>Weeks 14 - 17
-text
+Week 14's assignments were about stacks and queues. Week 15 introduced binary search trees along with date formats. Week 16 introduced JSON or XML depending on which version of the assignment one did (I used JSON), and project two was worked on during this week. Week 17 mainly consisted of creating this portfolio. 
      
 Weekly Assignments
 - [Week 14](https://github.com/CRoach02/CS121/tree/CS121/src/weekFourteen)
 - [Week 15](https://github.com/CRoach02/CS121/tree/CS121/src/weekFifteen)
 - [Week 16](https://github.com/CRoach02/CS121/tree/CS121/src/weekSixteen)
-- [Week 17](https://github.com/CRoach02/CS121/tree/CS121/src/weekSeventeen)
-
-
-
-
+  - [Project 2](https://github.com/CRoach02/CS121/tree/CS121/src/projectTwo)
+- [Week 17](https://github.com/CRoach02/CS121)
